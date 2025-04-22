@@ -1,0 +1,7 @@
+nohup python run.py >/dev/null 2>&1 &
+
+
+idea：
+Improving BERT Fine-Tuning via Self-Ensemble and Self-Distillation
+
+自集成 自蒸馏？
