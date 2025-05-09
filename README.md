@@ -42,7 +42,3 @@ If you find this paper or dataset useful, please cite us at:
   publisher={Springer}
 }
 ```
-
-## 6. Contact Us
-
-For any questions, please email [Yihe Liu](mailto:512796310@qq.com) or [Ziqi Yuan](mailto:yzq21@mails.tsinghua.edu.cn)
